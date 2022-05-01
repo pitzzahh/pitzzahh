@@ -1,5 +1,10 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+  </a>
+</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pitzzahh&label=Profile%20views&color=0e75b6&style=flat" alt="pitzzahh" /> </p>
 
 - 🔍 Need something?
