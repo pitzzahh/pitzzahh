@@ -3,7 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=roboto&duration=5500&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Peter+John Arao;I'm+a+Passionate+Java+Developer;Nice+to+meet+you+%3A)&size=30">
   </a>
 </h1>
-</br>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pitzzahh&label=Profile%20views&color=0e75b6&style=flat" alt="pitzzahh" /> </p>
 
 - 🔍 Need something?
