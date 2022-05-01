@@ -23,5 +23,5 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos/intellij-idea.svg" alt="IntelliJ IDEA" width="40" height="40"/> </a>
-<a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos/eclipse-icon.svg" alt="eclipse" width="40" height="40"/> </a></p>
+<a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos/eclipse-icon.svg" alt="eclipse" width="40" height="40"/> </a>
 <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40" height="40"/> </a></p>
