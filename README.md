@@ -1,5 +1,8 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> , I'm Peter John Arao</h1>
-<h3 align="center">A passionate Java developer</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=roboto&duration=5500&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Peter John Arao;I'm+a+Passionate+Java+Developer;Nice+to+meet+you+%3A)&size=30">
+  </a>
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pitzzahh&label=Profile%20views&color=0e75b6&style=flat" alt="pitzzahh" /> </p>
 
