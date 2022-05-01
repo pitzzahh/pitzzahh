@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pitzzahh&label=Profile%20views&color=0e75b6&style=flat" alt="pitzzahh" /> </p>
 
-- 🔭 I’m currently working on [lottery_game_cli](https://github.com/pitzzahh/lottery/)
 - 🔍 Need something?
 
 <h3 align="left">Connect with me:</h3>
