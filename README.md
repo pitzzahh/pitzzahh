@@ -25,4 +25,8 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos/intellij-idea.svg" alt="IntelliJ IDEA" width="40" height="40"/> </a>
 <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos/eclipse-icon.svg" alt="eclipse" width="40" height="40"/> </a>
-<a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40" height="40"/> </a></p>
+<a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40" height="40"/> </a>
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos/maven.svg" alt="Maven" width="40" 
+height="40"/> </a>
+<a href="https://s01.oss.sonatype.org/" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2af61146c55b6e172fa5b3_NexusRepo_Icon.png" alt="Nexus Repository Manager" width="40" 
+height="40"/> </a></p>
