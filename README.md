@@ -33,4 +33,4 @@ height="40"/> </a>
 <a rel="noreferrer"> <img src="https://api.iconify.design/logos/html-5.svg" alt="HTML5" width="40" 
 height="40"/> </a> 
 <a rel="noreferrer"> <img src="https://api.iconify.design/vscode-icons/file-type-css.svg" alt="CSS3" width="40" 
-height="39"/> </a></p>
+height="37"/> </a></p>
