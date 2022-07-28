@@ -29,4 +29,8 @@
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/vscode-icons/file-type-maven.svg" alt="Maven" width="40" 
 height="40"/> </a>
 <a href="https://s01.oss.sonatype.org/" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2af61146c55b6e172fa5b3_NexusRepo_Icon.png" alt="Nexus Repository Manager" width="40" 
+height="40"/> </a>
+<a <img src="https://api.iconify.design/logos/html-5.svg" alt="HTML5" width="40" 
+height="40"/> </a> 
+<a <img src="https://api.iconify.design/vscode-icons/file-type-css.svg" alt="CSS3" width="40" 
 height="40"/> </a></p>
