@@ -33,4 +33,6 @@ height="40"/> </a>
 <a rel="noreferrer"> <img src="https://api.iconify.design/logos/html-5.svg" alt="HTML5" width="40" 
 height="40"/> </a> 
 <a rel="noreferrer"> <img src="https://api.iconify.design/vscode-icons/file-type-css.svg" alt="CSS3" width="40" 
-height="35"/> </a></p>
+height="35"/> </a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos/angular-icon.svg" alt="Angular" width="40" 
+height="40"/> </a></p>
