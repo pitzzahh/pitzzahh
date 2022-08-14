@@ -27,4 +27,4 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=pitzzahh&show_icons=true&theme=tokyonight)
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pitzzahh&layout=compact)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pitzzahh&layout=compact&theme=tokyonight)
