@@ -4,7 +4,9 @@
   </a>
 </h1>
 
-<img src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iamge><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">via GIPHY</a></p>
+<div align="center">
+  <img src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Banner" width="400" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pitzzahh&label=Profile%20views&color=0e75b6&style=flat" alt="pitzzahh" /> </p>
 
