@@ -1,12 +1,12 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Banner" width="400" />
+</div>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=roboto&duration=5000&center=true&vCenter=true&width=550&lines=Hi+There!;I'm+Peter+John+Arao;A+passionate+Java+Developer;Nice+to+meet+you+%3A)&size=30">
   </a>
 </h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" alt="Banner" width="400" />
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pitzzahh&label=Profile%20views&color=0e75b6&style=flat" alt="pitzzahh" /> </p>
 
