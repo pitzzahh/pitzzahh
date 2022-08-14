@@ -20,3 +20,7 @@
     <img src="https://skillicons.dev/icons?i=java,git,github,linux,discord,twitter,spring,postgres,idea,vscode,eclipse,maven,html,css" />
   </a>
 </p>
+
+![stat](https://github-readme-stats.vercel.app/api?username=pitzzahh&count_private=false)
+
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=pitzzahh&hide=java,html&layout=compact)
