@@ -25,6 +25,6 @@
   </a>
 </p>
 
-![stats](https://github-readme-stats.vercel.app/api?username=pitzzahh&show_icons=true&theme=dark)
+![stats](https://github-readme-stats.vercel.app/api?username=pitzzahh&show_icons=true&theme=tokyonight)
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pitzzahh&layout=compact)
