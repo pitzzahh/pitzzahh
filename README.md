@@ -23,4 +23,4 @@
 
 ![stat](https://github-readme-stats.vercel.app/api?username=pitzzahh&count_private=false)
 
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=pitzzahh&hide=java,html&layout=compact)
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=pitzzahh&layout=compact)
