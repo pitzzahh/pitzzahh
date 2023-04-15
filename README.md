@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd,docker,androidstudio,cs,gradle" />
+    <img src="https://skillicons.dev/icons?i=figma,xd,docker,androidstudio,cs,gradle,vercel" />
   </a>
 </p>
 
