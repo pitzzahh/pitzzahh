@@ -35,13 +35,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,xd,docker,androidstudio,cs,graphql,gradle,jenkins" />
+    <img src="https://skillicons.dev/icons?i=figma,xd,docker,androidstudio,cs,gradle" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gradle,jenkins,md,netlify,sqlite,visualstudio,netlify,md" />
+    <img src="https://skillicons.dev/icons?i=jenkins,md,netlify,sqlite,visualstudio" />
   </a>
 </p>
 
