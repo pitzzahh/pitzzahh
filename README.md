@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins,md,netlify,sqlite,visualstudio,azure" />
+    <img src="https://skillicons.dev/icons?i=jenkins,md,netlify,sqlite,visualstudio,azure,kotlin" />
   </a>
 </p>
 
