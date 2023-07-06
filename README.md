@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pitzzahh&label=Profile%20views&color=0e75b6&style=flat" alt="pitzzahh" /> </p>
 
-- 💻 Currently learning/practicing svelte here: [Feedback App](https://github.com/pitzzahh/svelte-practice) from this tutorial: [Youtube Video](https://www.youtube.com/watch?v=3TVy6GdtNuQ&pp=ygUTc3ZlbHRlIGNyYXNoIGNvdXJzZQ%3D%3D)
+- 💻 Currently learning/practicing svelte here: [Beshify](https://github.com/pitzzahh/beshify)
 - 🔍 Need something?
 
 <h3 align="left">Connect with me:</h3>
