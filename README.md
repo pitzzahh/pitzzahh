@@ -48,3 +48,5 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=pitzzahh&show_icons=true&theme=tokyonight)
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pitzzahh&layout=compact&theme=tokyonight)
+___
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3173o2basb6qqm2vax3lq5nb7w5a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
