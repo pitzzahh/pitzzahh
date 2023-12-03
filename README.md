@@ -22,26 +22,26 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,idea,eclipse,maven,git,github,linux,discord" />
+    <img src="https://skillicons.dev/icons?i=java,spring,idea,eclipse,maven,git,github,linux,discord,devto,postgres,vite" />
   </a>
 
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,vscode,figma,html,css,js,sass,svelte" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,html,css,js,ts,sass,svelte,firebase,tailwind" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=xd,docker,androidstudio,cs,kotlin,gradle,vercel" />
+    <img src="https://skillicons.dev/icons?i=xd,docker,androidstudio,cs,kotlin,gradle,vercel,githubactions,postman" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=netlify,sqlite,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=hibernate,mongodb,mysql,prisma,netlify,sqlite,visualstudio" />
   </a>
 </p>
 
