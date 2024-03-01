@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pitzzahh&label=Profile%20views&color=0e75b6&style=flat" alt="pitzzahh" /> </p>
 
-- 💻 Currently learning/practicing svelte/kit here: [PowerTrackr](https://github.com/pitzzahh/powertrackr)
+- 💻 Currently working on Bicol IT website: [Repo](https://github.com/pitzzahh/bicolit-2024-website)
 - 🔍 Need something?
 
 <h3 align="left">Connect with me:</h3>
