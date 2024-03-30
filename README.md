@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pitzzahh&label=Profile%20views&color=0e75b6&style=flat" alt="pitzzahh" /> </p>
 
-- 💻 Currently working on capstone project (secret)
+- 💻 Currently working on [capstone project](https://github.com/pitzzahh/hrms)
 - 🔍 Need something?
 
 <h3 align="left">Connect with me:</h3>
