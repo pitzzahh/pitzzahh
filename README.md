@@ -8,14 +8,20 @@
   </a>
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pitzzahh&label=Profile%20views&color=0e75b6&style=flat" alt="pitzzahh" /> </p>
+<p align="let"> <img src="https://komarev.com/ghpvc/?username=pitzzahh&label=Profile%20views&color=0e75b6&style=flat" alt="pitzzahh" /></p>
+
+[![committers.top badge](https://user-badge.committers.top/philippines/pitzzahh.svg)](https://user-badge.committers.top/philippines/pitzzahh)
+
+
 
 - 💻 Currently working on our [capstone project](https://github.com/pitzzahh/hrms)
 - 🔍 Need something?
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  committers.top badge
 <a href="https://fb.com/pitzzahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pitzzahh fb" height="30" width="40" /></a>
+  
 <a href="https://discord.gg/XxkxPcfDgF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="XxkxPcfDgF" height="30" width="40" /></a>
 </p>
 
