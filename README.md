@@ -26,19 +26,19 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,idea,eclipse,maven,git,github,linux,discord,devto,postgres,vite" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,git,github,linux,postgres,vite" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=xd,docker,androidstudio,cs,kotlin,gradle,vercel,githubactions,postman,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=docker,cs,nextjs,vercel,githubactions,postman,tauri,svelte" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=svelte,html,css,js,ts,sass,firebase,tailwind,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,firebase,gcp,tailwind,figma" />
   </a>
 </p>
 
