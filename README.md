@@ -14,7 +14,7 @@
 
 
 
-- 💻 Currently working on lrnr [capstone project](https://github.com/pitzzahh/lrnr)
+- 💻 Currently working on lrnr [new project](https://github.com/pitzzahh/lrnr)
 - 🔍 Need something?
 
 <h3 align="left">Connect with me:</h3>
