@@ -14,7 +14,7 @@
 
 
 
-- 💻 Currently working on lrnr [new project](https://github.com/pitzzahh/lrnr)
+- 💻 Currently working on an adapter [signaldb-adapter-tauri](https://github.com/pitzzahh/signaldb-adapter-tauri)
 - 🔍 Need something?
 
 <h3 align="left">Connect with me:</h3>
