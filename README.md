@@ -10,9 +10,7 @@
 
 <p align="let"> <img src="https://komarev.com/ghpvc/?username=pitzzahh&label=Profile%20views&color=0e75b6&style=flat" alt="pitzzahh" /></p>
 
-[![committers.top badge](https://user-badge.committers.top/philippines/pitzzahh.svg)](https://user-badge.committers.top/philippines/pitzzahh)
-
-
+[![committers.top badge](https://user-badge.committers.top/philippines_private/pitzzahh.svg)](https://user-badge.committers.top/philippines_private/pitzzahh)
 
 - 💻 Currently working on an adapter [signaldb-adapter-tauri](https://github.com/pitzzahh/signaldb-adapter-tauri)
 - 🔍 Need something?
