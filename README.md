@@ -12,7 +12,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/philippines_private/pitzzahh.svg)](https://user-badge.committers.top/philippines_private/pitzzahh)
 
-- 💻 Currently building with SpringBoot on the [hr-platform-api](https://github.com/pitzzahh/hr-platform-api) project.
+- 💻 Currently working on [powertrackr](https://github.com/pitzzahh/powertrackr) project.
 - 🔍 Need something?
 
 <h3 align="left">Connect with me:</h3>
