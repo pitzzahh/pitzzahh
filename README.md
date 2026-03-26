@@ -23,25 +23,25 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href=https://builder.syvixor.com/>
     <img src="https://skills.syvixor.com/api/icons?perline=10&i=java,spring,apachemaven,hibernate,git,github,linux,postgres,svelte" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href=https://builder.syvixor.com/>
     <img src="https://skills.syvixor.com/api/icons?perline=8&i=docker,csharp,nextjs,cloudflare,githubactions,vite,tauri,javascript" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href=https://builder.syvixor.com/>
     <img src="https://skills.syvixor.com/api/icons?perline=8&i=html,css,typescript,railway,firebase,gcp,tailwind,figma" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href=https://builder.syvixor.com/>
     <img src="https://skills.syvixor.com/api/icons?perline=8&i=postman,drizzle,mongodb,mysql,prisma,netlify,sqlite,vercel" />
   </a>
 </p>
