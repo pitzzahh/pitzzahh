@@ -24,25 +24,25 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,git,github,linux,postgres,vite" />
+    <img src="https://skills.syvixor.com/api/icons?perline=10&i=java,spring,apachemaven,hibernate,git,github,linux,postgres,svelte" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,cs,nextjs,vercel,githubactions,postman,tauri,svelte" />
+    <img src="https://skills.syvixor.com/api/icons?perline=8&i=docker,csharp,nextjs,cloudflare,githubactions,vite,tauri,javascript" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,firebase,gcp,tailwind,figma" />
+    <img src="https://skills.syvixor.com/api/icons?perline=8&i=html,css,typescript,railway,firebase,gcp,tailwind,figma" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=hibernate,mongodb,mysql,prisma,netlify,sqlite" />
+    <img src="https://skills.syvixor.com/api/icons?perline=8&i=postman,drizzle,mongodb,mysql,prisma,netlify,sqlite,vercel" />
   </a>
 </p>
 
