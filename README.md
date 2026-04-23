@@ -30,13 +30,13 @@
 
 <p align="center">
   <a href=https://builder.syvixor.com/>
-    <img src="https://skills.syvixor.com/api/icons?perline=8&i=html,css,typescript,railway,firebase,gcp,tailwind,figma" />
+    <img src="https://skills.syvixor.com/api/icons?perline=8&i=html,css,typescript,tailwind,figma,postman,drizzle" />
   </a>
 </p>
 
 <p align="center">
   <a href=https://builder.syvixor.com/>
-    <img src="https://skills.syvixor.com/api/icons?perline=8&i=postman,drizzle,mongodb,mysql,prisma,netlify,sqlite,vercel" />
+    <img src="https://skills.syvixor.com/api/icons?perline=8&i=mongodb,mysql,prisma,netlify,sqlite,vercel" />
   </a>
 </p>
 
