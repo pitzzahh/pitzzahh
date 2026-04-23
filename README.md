@@ -6,7 +6,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/philippines_private/pitzzahh.svg)](https://user-badge.committers.top/philippines_private/pitzzahh)
 
-- 💻 Currently working on [powertrackr](https://github.com/pitzzahh/powertrackr) project.
+- 💻 Currently working on myself.
 - 🔍 Need something?
 
 <h3 align="left">Connect with me:</h3>
